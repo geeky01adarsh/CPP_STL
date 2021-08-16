@@ -1,1 +1,0 @@
-{"name":"Local: array","url":"c:\\Users\\aadarsh\\Desktop\\DSA Practice\\CPP_STL\\array.cpp","tests":[{"id":1629014835898,"input":"1 2 3 4","output":"1 2 3 4\n1 2 3 4\n4 4 \n4 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aadarsh\\Desktop\\DSA Practice\\CPP_STL\\array.cpp","group":"local","local":true}
