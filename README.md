@@ -2,6 +2,8 @@
 
 ### Most of the STL functions are in the [Algorithm](https://github.com/geeky01adarsh/CPP_STL/blob/main/algorithm.cpp) file as it could be applied almost every STL containers.
 
+### Find complete handf written notes with time complexities from [here](https://drive.google.com/file/d/1aDsx8ZYymjhLZm5JwtSmTsaojvucdXzr/view?usp=sharing)
+
 <h3> C++ STL <h3>
 <ul>
   <a href="https://github.com/geeky01adarsh/CPP_STL/blob/main/algorithm.cpp"><li><em>Algorithm</em></li></a>
@@ -46,3 +48,6 @@
       
 </ul>
       
+### Time Complexity and Space complexites for these containers -- [Hand written notes(pdf)](https://drive.google.com/file/d/1aBsuM59ileYqExvXOmK7IAcvjUT7DPre/view?usp=sharing) -- [Digital Copy(pdf)](https://drive.google.com/file/d/1DkKDrURUyOl9OO2N0hHHfZkPxso7Fh9Q/view?usp=sharing)
+      
+    
