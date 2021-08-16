@@ -6,7 +6,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
     // decreasing order implementation
     priority_queue<int> maxi;
 
@@ -28,33 +29,31 @@ int main(){
     mini.push(9);
 
     // empty function
-    cout<<"Is maxi empty? "<<maxi.empty()<<endl;
+    cout << "Is maxi empty? " << maxi.empty() << endl;
 
     // size fuction
-    cout<<"The size of maxi is "<<maxi.size()<<endl;
-    cout<<"The size of mini is "<<mini.size()<<endl;
+    cout << "The size of maxi is " << maxi.size() << endl;
+    cout << "The size of mini is " << mini.size() << endl;
 
     // printing the maxi(max heap)
-    cout<<"Printing the maxi ";
+    cout << "Printing the maxi ";
     int n = maxi.size();
-    for(int i=0; i<n; i++){
-        cout<<maxi.top()<<" ";
-        maxi.pop();  
+    for (int i = 0; i < n; i++)
+    {
+        cout << maxi.top() << " ";
+        maxi.pop();
     }
-    cout<<endl;
-    cout<<"Is maxi empty now? "<<mini.empty()<<endl;
-
-
+    cout << endl;
+    cout << "Is maxi empty now? " << mini.empty() << endl;
 
     // printing the mini(min heap)
-    cout<<"Printing the mini ";
+    cout << "Printing the mini ";
     n = mini.size();
-    for(int i=0; i<n; i++){
-        cout<<mini.top()<<" ";
-        mini.pop();  
+    for (int i = 0; i < n; i++)
+    {
+        cout << mini.top() << " ";
+        mini.pop();
     }
 
-
-    
     return 0;
 }
