@@ -2,7 +2,7 @@
 
 ### Most of the STL functions are in the [Algorithm](https://github.com/geeky01adarsh/CPP_STL/blob/main/algorithm.cpp) file as it could be applied almost every STL containers.
 
-### Find complete handf written notes with time complexities from [here](https://drive.google.com/file/d/1aDsx8ZYymjhLZm5JwtSmTsaojvucdXzr/view?usp=sharing)
+### Find complete hand-written notes with time complexities from [here](https://drive.google.com/file/d/1aDsx8ZYymjhLZm5JwtSmTsaojvucdXzr/view?usp=sharing).
 
 <h3> C++ STL <h3>
 <ul>
@@ -49,5 +49,10 @@
 </ul>
       
 ### Time Complexity and Space complexites for these containers -- [Hand written notes(pdf)](https://drive.google.com/file/d/1aBsuM59ileYqExvXOmK7IAcvjUT7DPre/view?usp=sharing) -- [Digital Copy(pdf)](https://drive.google.com/file/d/1DkKDrURUyOl9OO2N0hHHfZkPxso7Fh9Q/view?usp=sharing)
-      
-    
+       
+#### Thank You for visiting this repo. Please provide support by staring it.
+##### Feel free to contact me 
+[![image](https://user-images.githubusercontent.com/74068552/128004471-32cc18b7-4ce6-4faa-9536-410607433b08.png)
+](adarsh91094@gmail.com)   [![image](https://user-images.githubusercontent.com/74068552/128004564-e85e171a-0869-4c1f-9451-eb49254e8ea9.png)
+](https://www.linkedin.com/in/adarsh-navneet-sinha-34a36419a/)     [![image](https://user-images.githubusercontent.com/74068552/128004703-5babc26d-679a-43a0-8d6b-9e4146d8f65a.png)
+](https://twitter.com/geeky01adarsh)
